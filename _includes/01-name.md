@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+<h1> Portfolio 
+<p><h6>My name is Ihor and I am a programmer
